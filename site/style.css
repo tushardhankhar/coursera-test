@@ -1,0 +1,20 @@
+#sec1 {
+	color: blue;
+	font-size: :20px;
+	text-align: left;
+	background-color: orange;
+}
+
+a:link , a:visited {
+	color: orange;
+
+}
+
+a:hover {
+	color: darkred;
+}
+
+body {
+	background-color: lightgray;
+	font-size: 120%;
+}
